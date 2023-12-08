@@ -31,4 +31,9 @@ Create a visually immersive and surprising web experience. Ensure that users are
 - Surprise factor
 - Playfulness
 - Creative elements
+- 
+## Contributors 📚
+Meryem Barkallah |
+Rahma Mghirbi  |
+Asma Arrak
 
