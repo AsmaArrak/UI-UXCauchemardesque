@@ -20,7 +20,7 @@ Create a visually immersive and surprising web experience. Ensure that users are
 
 6. **Creativity:** Showcase your creativity in crafting a unique and memorable experience. 🌈
 
-/pic/GIF.gif
+![pic](/pic/GIF.gif)
 
 ## Project Submission
 
