@@ -1,4 +1,4 @@
-# Nightmarish Experience Project
+# Une UI/UX Cauchemardesque
 
 Welcome to the Nightmarish Experience project! The ultimate goal of this project is to disorient, surprise, and, above all, amuse users. Let your creativity run wild and astonish us! 🎭
 
