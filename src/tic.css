@@ -1,0 +1,67 @@
+.game {
+    display: flex;
+    flex-direction: row;
+    width: 800px; /* Adjust the width of the entire game board */
+    margin: 50px auto;
+  }
+  
+  .game-board {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .board-row {
+    display: flex;
+  }
+  
+  .square {
+    font-size: 24px;
+    width: 80px; /* Adjust the width of each square */
+    height: 80px; /* Adjust the height of each square */
+    margin-right: -1px;
+    margin-bottom: -1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #7e4444;
+    border: 1px solid #ddd;
+    cursor: pointer;
+  }
+  
+  .square:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .game-info {
+    margin-top: 20px;
+  }
+  
+  .status {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  ol {
+    padding-left: 0;
+    list-style: none;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  button {
+    font-size: 14px;
+    cursor: pointer;
+    padding: 5px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
